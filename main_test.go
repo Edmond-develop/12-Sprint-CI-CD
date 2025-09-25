@@ -2,7 +2,6 @@ package main
 
 import (
     "testing"
-    "main"
 )
 
 func TestMaxInt(t *testing.T) {
